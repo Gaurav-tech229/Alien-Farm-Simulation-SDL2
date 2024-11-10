@@ -1,6 +1,6 @@
 # 2D Alien Farm Game 🚀👽🌱
 
-A unique farming simulation game built with C++ and SDL2, featuring an alien-themed world where you can create and manage an otherworldly ecosystem with dynamic tile systems, animated plants, and autonomous creatures.
+A unique farming simulation game built with C/C++ and SDL2, featuring an alien-themed world where you can create and manage an otherworldly ecosystem with dynamic tile systems, animated plants, and autonomous creatures.
 
 ## ✨ Features
 
